@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jfsjd-Mum-Ramana
+- 👋 Hi, I'm Ramana Margam
 - 👀 I’m interested in Software Full Stack Development
 - 🌱 I’m currently learning Junior Java Full Stack Developer
 - 💞️ I’m looking to collaborate on Getting Placed In a Best Company.
